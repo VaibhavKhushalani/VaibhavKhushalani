@@ -25,12 +25,12 @@
 
 
 ## Projects? 
-- 💻 <a href target="_blank" src="https://easyfolio.wuwb.in/"> EasyFolio (Aug 2022) </a>
-- 💻 <a href target="_blank" src="https://booksdekho.netlify.app/"> BooksDekho (Jan 2022) </a>
-- 💻 <a href target="_blank" src="https://booksdekho.netlify.app/"> OnBoarding UI (June 2022) </a>
-- 💻 <a href target="_blank" src="https://shortly-vaibhavkhushalani.netlify.app/"> Shortly web application (Sep 2021) </a>
-- 💻 <a href target="_blank" src="https://wuwb.in/"> WUWB -What You Want Be?(May 2021) </a>
-- 💻 <a href target="_blank" src="https://jesussongshindi.netlify.app/"> Music Player Web Application (Feb 2021) </a>
+- 💻 <a href  src="https://easyfolio.wuwb.in/"> EasyFolio (Aug 2022) </a>
+- 💻 <a href  src="https://booksdekho.netlify.app/"> BooksDekho (Jan 2022) </a>
+- 💻 <a href  src="https://booksdekho.netlify.app/"> OnBoarding UI (June 2022) </a>
+- 💻 <a href  src="https://shortly-vaibhavkhushalani.netlify.app/"> Shortly web application (Sep 2021) </a>
+- 💻 <a href  src="https://wuwb.in/"> WUWB -What You Want Be?(May 2021) </a>
+- 💻 <a href  src="https://jesussongshindi.netlify.app/"> Music Player Web Application (Feb 2021) </a>
 
 
 ## Reach Vaibhav
