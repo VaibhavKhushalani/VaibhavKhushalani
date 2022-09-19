@@ -24,6 +24,10 @@
 - 🔨 Convert graphic designs to usable web images using React JS.
 
 
+## Projects? 
+- 💻 <a href="https://easyfolio.wuwb.in/"> EasyFolio (Aug 2022) </a>
+
+
 ## Reach Vaibhav
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/vaibhav-khushalani-760217136/) [Facebook](https://www.facebook.com/Vaibhav.khushlani.3/)
 - 😄 Pronouns: Him/he
