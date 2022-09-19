@@ -38,7 +38,10 @@
 - 😄 Pronouns: Him/he
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VaibhavKhushalani&show_icons=true&locale=en&layout=compact" alt="VaibhavKhushalani" /></p>
 
-[![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhushalani&count_private=true&show_icons=true)](https://github.com/VaibhavKhushalani/github-readme-stats)
-&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhushalani&layout=compact)](https://github.com/VaibhavKhushalani/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavKhushalani&show_icons=true&locale=en&count_private=true&" alt="VaibhavKhushalani" /></p>
+
+
+
+
