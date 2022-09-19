@@ -3,7 +3,7 @@
 
  **Anonymous boy stucked in the world of Developers**👨‍💻
 ### Learn About Vaibhav Khushalami ❤️
-<p align= "center">
+<p align= "end">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="30%" />
   </p>
   
