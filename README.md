@@ -4,7 +4,7 @@
  **Anonymous boy stucked in the world of Developers**👨‍💻
 ### Learn About Vaibhav Khushalami ❤️
 <p align= "center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="30%" />
   </p>
   
  ## My Work Experience:
