@@ -4,7 +4,7 @@
  **Anonymous boy stucked in the world of Developers**👨‍💻
 ### Learn About Vaibhav Khushalami ❤️
 <p align= "center">
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif" width=30% height=50%>
+<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width=30% height=50%>
   </p>
   
  ## My Work Experience:
