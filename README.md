@@ -30,7 +30,7 @@
 - 💻 [OnBoarding UI (June 2022)](https://booksdekho.netlify.app/)
 - 💻 [Shortly web application (Sep 2021)](https://shortly-vaibhavkhushalani.netlify.app/)
 - 💻 [WUWB -What You Want Be?(May 2021)](https://wuwb.in/)
-- 💻 [Music Player Web Application (Feb 2021)]("https://jesussongshindi.netlify.app/")
+- 💻 [Music Player Web Application (Feb 2021)](https://jesussongshindi.netlify.app/)
 
 
 ## Reach Vaibhav
