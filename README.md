@@ -40,3 +40,4 @@
 
 
 [![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhushalani)](https://github.com/VaibhavKhushalani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhushalani&layout=compact)](https://github.com/VaibhavKhushalani/github-readme-stats)
