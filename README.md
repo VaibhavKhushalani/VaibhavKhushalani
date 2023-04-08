@@ -8,7 +8,8 @@
   </p>
   
  ## My Work Experience:
-- ☕ Working at Kylo Apps as Full Stack Developer.
+- ☕ Working in SellersCommerece as SDE-1 (MERN)
+- ☕ Worked in Kylo Apps as Full Stack Developer.
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
