@@ -7,12 +7,13 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" height="20%" />
   </p>
   
- ## My Work Experience:
-- ☕ Working in SellersCommerece as SDE-1 (MERN)
-- ☕ Worked in Kylo Apps as Full Stack Developer.
-- 🚀 Built Multiple Websites for Several businesses.
-- ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
+## 💼 My Work Experience:
 
+* ☕ **Software Developer at Hestabit Technologies** — currently working on scalable backend systems and modern web solutions.
+* ☕ **SDE-1 (MERN)** at **SellersCommerce** — contributed to multiple full-stack projects and optimized application performance.
+* ☕ **Full Stack Developer** at **Kylo Apps** — developed dynamic web applications and handled both frontend and backend.
+* 🚀 Built multiple websites for several businesses, focusing on performance and clean UX.
+* ✨ Designed and developed diverse layouts, responsive interfaces, and complete websites as a **Freelancer**.
 
 ## What can i do? 
 - 🌱 I’m Full Time Full Stack (MERN) developer.
