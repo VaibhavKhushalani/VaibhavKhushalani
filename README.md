@@ -50,10 +50,7 @@ No fluff. Just engineering that works.
 
 ## 🧩 Featured Projects
 
-- 🔥 **ArtGenio** — AI Prompt Platform  
-  👉 https://artgenio.com  
-  A platform for discovering and using high-quality AI image prompts across categories.
-
+- 🔥 **ArtGenio** — AI Prompt Platform  https://artgenio.com  
 - 💻 **EasyFolio** — https://easyfolio.wuwb.in/vaibhav_khushalani
 - 💻 **BooksDekho** — https://booksdekho.netlify.app/
 - 💻 **OnBoarding UI** — https://booksdekho.netlify.app/
