@@ -54,7 +54,7 @@ No fluff. Just engineering that works.
   👉 https://artgenio.com  
   A platform for discovering and using high-quality AI image prompts across categories.
 
-- 💻 **EasyFolio** — https://easyfolio.wuwb.in/
+- 💻 **EasyFolio** — https://easyfolio.wuwb.in/vaibhav_khushalani
 - 💻 **BooksDekho** — https://booksdekho.netlify.app/
 - 💻 **OnBoarding UI** — https://booksdekho.netlify.app/
 - 💻 **Shortly** — https://shortly-vaibhavkhushalani.netlify.app/
