@@ -1,8 +1,12 @@
 # Hi, I’m Vaibhav Khushalani 👋
 
-**Full-Stack Engineer | Backend-Focused | Real-Time Systems | AI-Driven Products**
+**Full-Stack Engineer | Backend Systems | AI & SaaS Builder**
 
-I build **scalable backend systems**, **clean frontend experiences**, and **production-ready products** that actually ship.  
+<p align="center">
+  <b>🚀 Building SaaS · 🤖 AI Systems · ⚙️ Scalable Backend Architectures</b>
+</p>
+
+I build **scalable systems**, **AI-powered platforms**, and **production-ready products** that handle real users and real workloads.  
 No fluff. Just engineering that works.
 
 <p align="center">
@@ -13,70 +17,116 @@ No fluff. Just engineering that works.
 
 ## 🚀 About Me
 
-- 💼 **Software Developer at Hestabit Technologies**
-- 🧠 Strong in **backend architecture**, APIs, and real-time systems
-- ⚡ Experienced in **MERN stack**, with growing focus on **Next.js & TypeScript**
-- 🔍 Obsessed with **clean code**, **performance**, and **developer experience**
-- 🛠 Builder mindset — I ship products, not demos
+- 💼 Software Developer at **Hestabit Technologies**
+- 🧠 Strong in **backend architecture, APIs, and system design**
+- ⚡ Building **AI platforms, SaaS products, and real-time systems**
+- 🛠 Focused on **performance, scalability, and clean architecture**
+- 🚀 I don’t build demos — I build **real products that scale**
 
 ---
 
 ## 💼 Work Experience
 
-- **Software Developer — Hestabit Technologies**  
-  Working on scalable backend systems, APIs, and modern web solutions.
+### **Software Developer — Hestabit Technologies (2025 – Present)**
+- Architecting AI-powered platforms and scalable backend systems  
+- Designing microservices, async workflows, and distributed systems  
+- Working with Node.js, FastAPI, Redis, and real-time processing  
 
-- **Software Developer (SDE-1 MERN) — SellersCommerce**  
-  Built and optimized full-stack features used in production environments.
+---
 
-- **Full-Stack Developer — Kylo Apps**  
-  Developed end-to-end web applications across frontend and backend.
+### **Software Developer — SellersCommerce (2023 – 2025)**
+- Built high-throughput systems processing **100k+ records per run**  
+- Developed REST APIs, billing systems, and Shopify integrations  
+- Improved performance using SSR, caching, and system optimizations  
+- Worked on microfrontend architecture across multiple teams  
 
-- **Freelancer**  
-  Delivered complete websites for multiple businesses with focus on UX, performance, and responsiveness.
+---
+
+### **Software Developer — Kylo Apps (2022 – 2023)**
+- Built full-stack MERN applications (dashboards, admin panels)  
+- Improved frontend performance using lazy loading and optimization techniques  
+- Developed reusable UI components and scalable frontend architecture  
 
 ---
 
 ## 🧠 What I Do Best
 
-- ✅ Full-Stack Development (MERN)
-- ✅ Backend APIs & System Design
-- ✅ Real-time apps (Socket.IO, server-authoritative logic)
-- ✅ Clean, responsive UI with Tailwind / Bootstrap / Bulma
-- ✅ SEO-friendly, performance-optimized web apps
-- ✅ Turning ideas into production-ready products
+- 🚀 Building scalable SaaS platforms  
+- ⚙️ Designing backend systems & APIs  
+- 🤖 Integrating AI into real-world products  
+- ⚡ Developing real-time applications (Socket.IO)  
+- 📈 Optimizing performance and system efficiency  
 
 ---
 
 ## 🧩 Featured Projects
 
-- 🔥 **ArtGenio** — AI Prompt Platform  https://artgenio.com  
-- 💻 **EasyFolio** — https://easyfolio.wuwb.in/vaibhav_khushalani
-- 💻 **BooksDekho** — https://booksdekho.netlify.app/
-- 💻 **OnBoarding UI** — https://booksdekho.netlify.app/
-- 💻 **Shortly** — https://shortly-vaibhavkhushalani.netlify.app/
-- 💻 **WUWB (What You Want Be?)** — https://wuwb.in/
-- 💻 **Music Player App** — https://jesussongshindi.netlify.app/
+### 🚀 EasyFolio — Multi-User Portfolio SaaS  
+👉 Live: https://easyfolio.wuwb.in/vaibhav_khushalani
+
+- Multi-user system with admin & sub-admin roles  
+- Dynamic portfolio generation with multiple themes  
+- PDF CV parsing + Cloudinary uploads  
+- Built with Next.js, Turso (libSQL), Drizzle ORM, NextAuth  
+
+---
+
+### 🔥 ArtGenio — AI SaaS Platform  
+👉 Live: https://artgenio.com  
+
+- AI prompt marketplace + Creator Hub (6 AI tools)  
+- Subscription + one-time payment system (Razorpay & PayPal)  
+- Admin dashboard + analytics + SEO optimization  
+- Built with Next.js, MongoDB, Gemini API  
+
+---
+
+### ⚡ Real-Time Multiplayer Tic Tac Toe  
+👉 Repo: https://github.com/VaibhavKhushalani/tic-tac-toe  
+
+- WebSocket-based real-time multiplayer system  
+- Server-authoritative architecture (no client desync)  
+- Room-based gameplay with live synchronization  
+
+---
+
+### 🌐 WUWB — Goal Tracking Platform  
+👉 Live: https://wuwb.in  
+
+- Full-stack web platform for goal tracking & user interaction  
+- Built with React, Node.js, Express, MongoDB  
+
+---
+
+## 📝 Technical Writing
+
+I write about backend systems, performance, and real-world engineering challenges.
+
+- Real-time systems with Socket.IO  
+- Node.js performance optimization (clustering)  
+- Stripe subscription systems  
+- AI product architecture (ArtGenio)  
+
+👉 https://medium.com/@vaibhavkhushalani  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React, Next.js
-- Tailwind CSS, Bootstrap, Bulma
-- Redux
+### **Frontend**
+React · Next.js · TypeScript · Tailwind CSS  
 
-**Backend**
-- Node.js, Express
-- MongoDB, PostgreSQL
-- REST APIs, real-time systems
+### **Backend**
+Node.js · Express · FastAPI · REST APIs · GraphQL  
 
-**Tools & Platforms**
-- Git, Postman
-- AWS, Firebase
-- Docker (learning & usage)
-- Figma
+### **Databases**
+MongoDB · PostgreSQL · Redis  
+
+### **DevOps & Tools**
+AWS · Docker · Nginx · GitHub Actions · Postman  
+
+### **AI**
+LangChain · FAISS · LLM APIs  
 
 ---
 
@@ -91,8 +141,9 @@ No fluff. Just engineering that works.
 ## 📫 Reach Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-khushalani-760217136/
-- 🌐 ArtGenio: https://artgenio.com
+- 🌐 Portfolio: https://easyfolio.wuwb.in/vaibhav_khushalani
+- 📧 Email: vaibhavkhushlani04@gmail.com  
 
 ---
 
-> _“No fluff. No compromises. If it ships, it matters.”_
+> **“If it doesn’t scale, it’s just a demo.”**
