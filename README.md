@@ -90,7 +90,7 @@ No fluff. Just engineering that works.
 
 ---
 
-### 🌐 WUWB — Goal Tracking Platform  
+### 🌐 WUWB — Goal Tracking Platform
 👉 Live: https://wuwb.in  
 
 - Full-stack web platform for goal tracking & user interaction  
