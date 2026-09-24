@@ -1,149 +1,141 @@
-# Hi, I’m Vaibhav Khushalani 👋
+# Hi, I'm Vaibhav Khushalani 👋
 
-**Full-Stack Engineer | Backend Systems | AI & SaaS Builder**
-
-<p align="center">
-  <b>🚀 Building SaaS · 🤖 AI Systems · ⚙️ Scalable Backend Architectures</b>
-</p>
-
-I build **scalable systems**, **AI-powered platforms**, and **production-ready products** that handle real users and real workloads.  
-No fluff. Just engineering that works.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Vaibhav Khushalani — Full-Stack Engineer, AI & SaaS Builder" src="./dark.svg">
+</picture>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="32%" />
+  <b>Full-Stack Engineer · Backend Systems · AI & SaaS Builder</b>
 </p>
+
+<p align="center">
+  🚀 Building SaaS &nbsp;·&nbsp; 🤖 AI Systems &nbsp;·&nbsp; ⚙️ Scalable Architectures &nbsp;·&nbsp; ⚡ Real-time Applications
+</p>
+
+I build **production-ready web applications, AI-powered products, scalable APIs, and real-time systems** with a focus on performance, clean architecture, and practical engineering.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Software Developer at **Hestabit Technologies**
-- 🧠 Strong in **backend architecture, APIs, and system design**
-- ⚡ Building **AI platforms, SaaS products, and real-time systems**
-- 🛠 Focused on **performance, scalability, and clean architecture**
-- 🚀 I don’t build demos — I build **real products that scale**
+- 💼 Software Engineer III / Full-Stack Engineer at **Forrester Research**
+- 🧩 **4+ years** building production web applications
+- ⚛️ Strong in **React, Next.js, TypeScript, Node.js & MERN**
+- 🤖 Exploring **Python, AI/LLMs, AI product architecture & automation**
+- ⚙️ Interested in **backend architecture, APIs, system design, performance & scalability**
+- 🛠️ Building independent products alongside my engineering work
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### **Software Developer — Hestabit Technologies (2025 – Present)**
-- Architecting AI-powered platforms and scalable backend systems  
-- Designing microservices, async workflows, and distributed systems  
-- Working with Node.js, FastAPI, Redis, and real-time processing  
+### Software Engineer III — Forrester Research
+**May 2026 – Present**
+- Building production frontend experiences with **React / Next.js / TypeScript**
+- Working across API integrations, offline behavior, React Query and production deployments
+- Contributing to modern web architecture and product engineering workflows
 
----
+### Software Developer — Hestabit Technologies
+**Jul 2025 – May 2026**
+- Worked on modern web applications and product engineering initiatives
+- Built interfaces and integrations using the JavaScript/TypeScript ecosystem
 
-### **Software Developer — SellersCommerce (2023 – 2025)**
-- Built high-throughput systems processing **100k+ records per run**  
-- Developed REST APIs, billing systems, and Shopify integrations  
-- Improved performance using SSR, caching, and system optimizations  
-- Worked on microfrontend architecture across multiple teams  
+### Software Developer — SellersCommerce
+**Mar 2023 – Jul 2025**
+- Built high-throughput systems and integrations handling **100k+ records per run**
+- Worked on Shopify integrations, REST APIs, billing workflows and performance optimization
+- Contributed to microfrontend architecture and scalable frontend systems
 
----
-
-### **Software Developer — Kylo Apps (2022 – 2023)**
-- Built full-stack MERN applications (dashboards, admin panels)  
-- Improved frontend performance using lazy loading and optimization techniques  
-- Developed reusable UI components and scalable frontend architecture  
-
----
-
-## 🧠 What I Do Best
-
-- 🚀 Building scalable SaaS platforms  
-- ⚙️ Designing backend systems & APIs  
-- 🤖 Integrating AI into real-world products  
-- ⚡ Developing real-time applications (Socket.IO)  
-- 📈 Optimizing performance and system efficiency  
+### Software Developer — Kylo Apps
+**Jan 2022 – Mar 2023**
+- Built full-stack MERN applications, dashboards and admin panels
+- Developed reusable components and performance-focused frontend architecture
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🚀 EasyFolio — Multi-User Portfolio SaaS  
-👉 Live: https://easyfolio.wuwb.in/vaibhav_khushalani
+### 🚀 EasyFolio — Portfolio SaaS
+[Live Demo](https://easyfolio.wuwb.in/vaibhav_khushalani)
+- Multi-user portfolio builder with role-based administration
+- Dynamic themes and portfolio generation
+- PDF CV parsing and Cloudinary uploads
+- **Next.js · Turso/libSQL · Drizzle ORM · NextAuth**
 
-- Multi-user system with admin & sub-admin roles  
-- Dynamic portfolio generation with multiple themes  
-- PDF CV parsing + Cloudinary uploads  
-- Built with Next.js, Turso (libSQL), Drizzle ORM, NextAuth  
+### 🔥 ArtGenio — AI Platform
+[artgenio.com](https://artgenio.com)
+- AI prompt marketplace + Creator Hub
+- Multiple AI-powered creator tools
+- Razorpay / PayPal payment flows
+- Admin analytics, SEO and content systems
+- **Next.js · MongoDB · Gemini API**
 
----
+### ⚡ Real-Time Multiplayer Tic Tac Toe
+[GitHub Repository](https://github.com/VaibhavKhushalani/tic-tac-toe)
+- WebSocket-based multiplayer architecture
+- Room-based synchronization
+- Server-authoritative game state
 
-### 🔥 ArtGenio — AI SaaS Platform  
-👉 Live: https://artgenio.com  
-
-- AI prompt marketplace + Creator Hub (6 AI tools)  
-- Subscription + one-time payment system (Razorpay & PayPal)  
-- Admin dashboard + analytics + SEO optimization  
-- Built with Next.js, MongoDB, Gemini API  
-
----
-
-### ⚡ Real-Time Multiplayer Tic Tac Toe  
-👉 Repo: https://github.com/VaibhavKhushalani/tic-tac-toe  
-
-- WebSocket-based real-time multiplayer system  
-- Server-authoritative architecture (no client desync)  
-- Room-based gameplay with live synchronization  
-
----
-
-### 🌐 WUWB — Goal Tracking Platform  
-👉 Live: https://wuwb.in  
-
-- Full-stack web platform for goal tracking & user interaction  
-- Built with React, Node.js, Express, MongoDB  
+### 🌐 WUWB — Goal Tracking Platform
+[wuwb.in](https://wuwb.in)
+- Full-stack goal tracking and user interaction platform
+- **React · Node.js · Express · MongoDB**
 
 ---
 
-## 📝 Technical Writing
+## 🛠️ Tech Stack
 
-I write about backend systems, performance, and real-world engineering challenges.
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Redux · React Query · Tailwind CSS · Material UI
 
-- Real-time systems with Socket.IO  
-- Node.js performance optimization (clustering)  
-- Stripe subscription systems  
-- AI product architecture (ArtGenio)  
+**Backend**  
+Node.js · Express · FastAPI · REST APIs · GraphQL · Socket.IO
 
-👉 https://medium.com/@vaibhavkhushalani  
+**Databases & Data**  
+MongoDB · PostgreSQL · Redis · Turso/libSQL · Drizzle ORM
 
----
+**Cloud & DevOps**  
+AWS · Docker · Nginx · GitHub Actions · Vercel
 
-## 🛠 Tech Stack
+**AI / Data**  
+Python · LLM APIs · Gemini · LangChain · FAISS · AI Automation
 
-### **Frontend**
-React · Next.js · TypeScript · Tailwind CSS  
-
-### **Backend**
-Node.js · Express · FastAPI · REST APIs · GraphQL  
-
-### **Databases**
-MongoDB · PostgreSQL · Redis  
-
-### **DevOps & Tools**
-AWS · Docker · Nginx · GitHub Actions · Postman  
-
-### **AI**
-LangChain · FAISS · LLM APIs  
+**Engineering**  
+System Design · Performance Optimization · Microfrontends · Real-time Systems · API Architecture
 
 ---
 
-## 📊 GitHub Stats
+## ✍️ Technical Writing
+
+I write about **backend engineering, performance, AI products and real-world development challenges**.
+
+- Real-time systems with Socket.IO
+- Node.js performance and clustering
+- Subscription/payment architecture
+- AI product architecture
+- Production debugging and optimization
+
+[Read my articles on Medium →](https://medium.com/@vaibhavkhushalani)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile stats" />
 </p>
 
 ---
 
-## 📫 Reach Me
+## 📫 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-khushalani-760217136/
-- 🌐 Portfolio: https://easyfolio.wuwb.in/vaibhav_khushalani
-- 📧 Email: vaibhavkhushlani04@gmail.com  
-
----
+<p>
+  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
+  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
+  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
+  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
+</p>
 
 > **“If it doesn’t scale, it’s just a demo.”**
