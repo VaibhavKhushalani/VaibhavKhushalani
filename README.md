@@ -157,6 +157,25 @@ I write about **backend engineering, AI products, performance and real-world eng
   <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
 ---
 
 ## 📫 Connect With Me
